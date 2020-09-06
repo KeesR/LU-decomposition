@@ -5,10 +5,9 @@ LU-decomposition for matrices as present here:
 https://en.wikipedia.org/wiki/LU_decomposition#C_code_examples
 
 The code has some very simple tests (good weather only) in LUPD_main.java.
-
-Compile with: javac LUPD_main.java LUPDecomposition.java
-
-Run with: java LUPD_main
+Standalone usage as follows:
+-   javac LUPD_main.java LUPDecomposition.java
+-   java LUPD_main
 
 This is licensed under https://creativecommons.org/licenses/by-sa/4.0/, which means:
 -   You must give credit to the author
