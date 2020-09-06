@@ -2,10 +2,10 @@
 public class LUPD_main {
 
     public static void main(String[] args) {
-        test_inversion();
+        test_good_weather();
     }
     
-    static void test_inversion() {
+    static void test_good_weather() {
         double[][] A = { { 2, 1 }, { -1, 2} };
         int[] P = new int[3];
 
