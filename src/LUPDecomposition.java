@@ -1,6 +1,6 @@
 
-static class LUdecomposition {
-  
+public class LUPDecomposition {
+
     // INPUT:  A - array of pointers to rows of a square matrix having
     //         dimension N
     //         Tol - small tolerance number to detect failure when the
@@ -157,3 +157,4 @@ static class LUdecomposition {
             return -det;
     }
 }
+
